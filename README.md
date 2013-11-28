@@ -1,2 +1,0 @@
-Database-of-Conference-Papers
-=============================
